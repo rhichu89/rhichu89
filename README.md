@@ -1,15 +1,20 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=wonjin's%20Git&fontSize=90&animation=fadeIn&fontAlignY=38&%20me!&descAlignY=51&descAlign=62&fontColor=#ffff)
+
+
+
 ### Hi there 👋
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhichu89&show_icons=true&theme=buefy&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
+- 🌱 노력하는 개발자
+- 🤔 궁금증을 가지며 살아가는 개발자
+- 😄 많은 것을 해보고 싶은 개발자
 
 
 <br/>
+<br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhichu89&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhichu89&show_icons=true&theme=radical)
+
+
+
 
 <!--
 **rhichu89/rhichu89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
